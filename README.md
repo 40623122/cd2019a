@@ -3,13 +3,11 @@
 
 https://40623122.github.io/cd2019a
 
+or
+
+https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g1
 
 
-http://scrum-1.github.io/cd2019a
-
-or 
-
-http://cpgx.kmol.info/cd2019a
 
 
 . 
